@@ -1,5 +1,10 @@
 # Descrption this module
 
+## Source data
+The data was provided in a zip file by Coursera available on the following link 
+  [UCI HAR Dataset]
+  (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+
 ## Preparation
 Nessary to use `require(dplyr)` or `library(dplyr)` . Please you can download this `install.packages("dplyr")` 
 or `install.packages("tidyverse")`. If you have problem it's may be from 'RCPP' library.
